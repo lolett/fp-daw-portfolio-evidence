@@ -1,2 +1,11 @@
-# fp-daw-portfolio-evidence
-Simple portfolio for Employability 2 from FP DAW 2 year
+# FP DAW Portfolio Evidence (DAW2)
+
+This repository contains PDF evidence for non-code modules.
+
+## Folders
+- Employability 2: ./employability
+- Professional English: ./professional-english
+- Sustainability: ./sustainability
+
+## Notes
+Files are provided as PDF deliverables to be referenced from the main portfolio document.
