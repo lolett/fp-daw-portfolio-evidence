@@ -1,8 +1,10 @@
 # Cloud Computing — Evidence (AWS Academy)
 
 ## Contents
-- aws_academy_progress.png — AWS Academy labs and knowledge checks completion/progress screenshot.
-
+AWS Academy labs and knowledge checks completion/progress screenshot.
+```bash
+aws_academy_progress.png` 
+```
 ## Covered labs (as shown in the platform)
 - Lab 1: Introduction to AWS IAM
 - Lab 2: Create a VPC and launch a web server
